@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/antonkucherenko/static/css/main.50baef42.css",
-    "main.js": "/antonkucherenko/static/js/main.1f1a9626.js",
+    "main.css": "/antonkucherenko/static/css/main.f89f3a77.css",
+    "main.js": "/antonkucherenko/static/js/main.af46ce00.js",
     "static/media/main_page.png": "/antonkucherenko/static/media/main_page.4fe3dcd5e4b9fb43e46a.png",
     "static/media/resume.jpg": "/antonkucherenko/static/media/resume.e72669275c202aa64163.jpg",
     "static/media/data.png": "/antonkucherenko/static/media/data.6831340ebe25faef8882.png",
     "static/media/photo.jpg": "/antonkucherenko/static/media/photo.ca9f67232aa5cf1cc9fa.jpg",
     "static/media/graph.png": "/antonkucherenko/static/media/graph.f84364793be42a5e3464.png",
     "index.html": "/antonkucherenko/index.html",
-    "main.50baef42.css.map": "/antonkucherenko/static/css/main.50baef42.css.map",
-    "main.1f1a9626.js.map": "/antonkucherenko/static/js/main.1f1a9626.js.map"
+    "main.f89f3a77.css.map": "/antonkucherenko/static/css/main.f89f3a77.css.map",
+    "main.af46ce00.js.map": "/antonkucherenko/static/js/main.af46ce00.js.map"
   },
   "entrypoints": [
-    "static/css/main.50baef42.css",
-    "static/js/main.1f1a9626.js"
+    "static/css/main.f89f3a77.css",
+    "static/js/main.af46ce00.js"
   ]
 }
