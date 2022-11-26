@@ -5,7 +5,7 @@
 
 .courses{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     height: 300px;
 }
 
@@ -19,7 +19,8 @@
 }
 
 .sphere{
-    width: 400px;
+    margin-right: 50%;
+    
 }
 
 .courses_text {
@@ -43,8 +44,9 @@
     }
 
     .sphere{
-        width: 100%;
+        /* width: 100%; */
         margin-top: 25%;
+        margin-right: 10%;
     }
 
     .courses_text h3, .courses_text li{

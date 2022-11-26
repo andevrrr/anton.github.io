@@ -126,5 +126,10 @@ margin-top: 3%;
     .main_page{
         right: 22px;
     }
+
+    .forecast_project{
+        margin-right: 5%;
+        margin-left: 5%;
+    }
 }
 
