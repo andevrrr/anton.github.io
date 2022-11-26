@@ -110,6 +110,15 @@
   width: 100%;
 }
 
+.download{
+  text-align: center;
+}
+
+.download a{
+  color: #9d00ff;
+  font-family: 'Sono', sans-serif;
+}
+
 
 @media screen and (max-width: 450px) {
   .header_header{
@@ -130,3 +139,4 @@
     margin: 50px 0px 0px 0px;
   }
 }
+

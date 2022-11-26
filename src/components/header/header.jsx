@@ -27,7 +27,7 @@ function Header() {
           </div>
           <div>
             <div className="button2">
-                <a className="kbc-button" href="#popup2" >resume</a>
+                <a className="kbc-button" href="#popup2">resume</a>
             </div>
             <div className="button2">
                 <a className="kbc-button" href="#popup1">contact me</a>
@@ -54,6 +54,9 @@ function Header() {
         <div className='close_button'>
           <a className="close" href="#">&times;</a>
         </div>
+        <div className="download">
+                <a href={require("../../assets/resume.jpg")}  download>Download</a>
+        </div>
         <img src={require("../../assets/resume.jpg")} alt="" />
       </div>
     </div>
@@ -71,10 +74,3 @@ function Header() {
 
 export default Header
 
-
-
-          {/* <div className='icons'>
-            <img className='image image-one' src={require("../../assets/icons8-linkedin-circled-90.png")} alt="" /> 
-            <img className='image image-two' src={require("../../assets/icons8-linkedin-circled.gif")} alt="" /> 
-            <img className='image' src={require("../../assets/github_icon.png")} alt="" /> 
-          </div> */}
