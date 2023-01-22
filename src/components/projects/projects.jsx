@@ -30,7 +30,7 @@ function Projects() {
                                         <li>CSS</li>
                                         <li>JavaScript</li>
                                     </ul>
-                                    <h4><a href="https://github.com/andevrrr/repo/tree/main/course_assignment">GitHub</a></h4>
+                                    <h4><a href="https://github.com/andevrrr/Projects/tree/main/Latest/course_assignment">GitHub</a></h4>
                                 </div>
                             </div>
                         </div>
